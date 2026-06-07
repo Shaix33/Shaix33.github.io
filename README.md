@@ -2,7 +2,7 @@
 
 > Personal portfolio website showcasing IT support, systems administration, and networking skills.
 
-**Live site:** [https://shaix33.github.io/](https://shaix33.github.io/) *(update with your actual URL)*
+**Live site:** [https://shaix33.github.io/](https://shaix33.github.io/)
 
 ---
 
