@@ -732,9 +732,24 @@ section {
   border-radius: 4px;
   padding: 1.5rem;
   display: flex;
+  flex-direction: column;
   gap: 1rem;
   align-items: flex-start;
   transition: border-color 0.3s, transform 0.3s;
+  overflow: visible;
+}
+
+.cert-card-header {
+  display: flex;
+  gap: 1rem;
+  align-items: flex-start;
+  width: 100%;
+}
+
+.credly-badge {
+  margin-top: 0.5rem;
+  min-height: 270px;
+  width: 150px;
 }
 
 .cert-card:hover {
