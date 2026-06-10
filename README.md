@@ -1,4 +1,4 @@
-# Themba Kevin Ndlondlo — IT Portfolio
+# Themba Kevin Ndlondlo — Portfolio
 
 > Personal portfolio website showcasing IT support, systems administration, and networking skills.
 
